@@ -23,7 +23,7 @@ LINK = [
          {
          "link": "https://blog.pai233.top/",  # 友链页地址2
          "theme": "butterfly",  # 友链页的获取策略
-     },
+    },
     #     {
     #     "link": "https://immmmm.com/about/",  # 友链页地址3
     #     "theme": "common",  # 友链页的获取策略
